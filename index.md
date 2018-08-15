@@ -23,5 +23,5 @@ public void handleBtnAppointmentRegister()
 }
 ```
 
- - [View Source (github)](https://github.com/adamdon)
- - [Download .jar (unzip)](https://www.linkedin.com/in/adam-don/)
+ - [View Source (github)](https://github.com/adamdon/CaledonianOpticians/tree/1.0/src/caledonianopticians)
+ - [Download .jar (unzip)](https://github.com/adamdon/CaledonianOpticians/releases/download/1.0/CaledonianOpticians1.0.zip)
