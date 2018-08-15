@@ -1,9 +1,7 @@
 ## Adam Don - projects, bits and pieces
 
-Here is a collection of projects I wanted to document to help keep track of what I've been working on.
-
+A collection of projects I wanted to document to help keep track of what I've been working on.
 [GitHub](https://github.com/adamdon)
-
 [LinkedIn](https://www.linkedin.com/in/adam-don/)
 
 ### Markdown
