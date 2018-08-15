@@ -5,7 +5,7 @@ A collection of projects I wanted to document to help keep track of what I've be
  - [LinkedIn](https://www.linkedin.com/in/adam-don/)
 
 ### CaledonianOpticians - Customer Management Database
-![Screenshot of UI]({{ site.url }}/assets/img/CaledonianOpticians_screenshot01.png)
+![Screenshot of UI]({{ site.url }}/img/CaledonianOpticians_screenshot01.png)
 
 Developed by myself as part of a larger 1st year project to create an appointments management tool that could make, update, search and store bookings.
 
