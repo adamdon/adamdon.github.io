@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Adam Don - projects, bits and pieces
 
 You can use the [editor on GitHub](https://github.com/adamdon/adamdon.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
