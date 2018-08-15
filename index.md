@@ -13,21 +13,16 @@ The UI was make using a JavaFX gridpane, the logic was implemented in the Contro
 
 
 ```markdown
-Syntax highlighted code block
+code snippet:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+    public void handleBtnAppointmentRegister()
+    {
+        isAppointmentModifyModeActive = false;
+        clearAppointmentDetails();
+        view.txtAppointmentRef.setText(Integer.toString(allAppointments.get(allAppointments.size() - 1).getIntAppointmentRef() + 1));
+        appointmentDetailsMakeEditable();
+        updateStatusBar("Type all Appointment details then Save");
+    }
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
