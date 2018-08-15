@@ -5,7 +5,9 @@ A collection of projects I wanted to document to help keep track of what I've be
  - [LinkedIn](https://www.linkedin.com/in/adam-don/)
 
 ### CaledonianOpticians - Customer Management Database
+
  - [Download .jar (unzip)](https://github.com/adamdon/CaledonianOpticians/releases/download/1.0/CaledonianOpticians1.0.zip)
+ 
 ![Screenshot of UI](/img/CaledonianOpticians_screenshot01.png)
 
 Developed by myself as part of a larger 1st year project to create an appointments management tool that could make, update, search and store bookings.
