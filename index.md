@@ -5,7 +5,8 @@ A collection of projects I wanted to document to help keep track of what I've be
  - [LinkedIn](https://www.linkedin.com/in/adam-don/)
 
 ### CaledonianOpticians - Customer Management Database
-![Screenshot of UI](https://github.com/adamdon/adamdon.github.io/blob/master/img/CaledonianOpticians_screenshot01.png)
+![Screenshot of UI]({{ site.url }}/assets/img/CaledonianOpticians_screenshot01.png)
+
 Developed by myself as part of a larger 1st year project to create an appointments management tool that could make, update, search and store bookings.
 
 The UI was make using a JavaFX gridpane, the logic was implemented in the Controller class (using the Model–view–controller design) and the database utilised ObjectOutputStream with FileOutputStream to write the full array of objects to disk for persistence.
