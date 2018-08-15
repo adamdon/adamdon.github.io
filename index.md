@@ -5,8 +5,10 @@ A collection of projects I wanted to document to help keep track of what I've be
  - [LinkedIn](https://www.linkedin.com/in/adam-don/)
 
 ### CaledonianOpticians - Customer Management Database
+Developed by myself as part of a larger 1st year project to create an appointments management tool that could make, update, search and store bookings.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The UI was make using a JavaFX gridpane, the logic was implemented in the Controller class (using the Model–view–controller design) and the database utilised ObjectOutputStream with FileOutputStream to write the full array of objects to disk for persistence.
+
 
 ```markdown
 Syntax highlighted code block
