@@ -4,7 +4,8 @@ A collection of projects I wanted to document to help keep track of what I've be
  - [GitHub](https://github.com/adamdon)
  - [LinkedIn](https://www.linkedin.com/in/adam-don/)
 
-## CaledonianOpticians - Customer Management Database
+## CaledonianOpticians
+#### Customer Management Database
 
  - [Download .jar (unzip)](https://github.com/adamdon/CaledonianOpticians/releases/download/1.0/CaledonianOpticians1.0.zip)
  
@@ -17,18 +18,19 @@ The UI was make using a JavaFX gridpane, the logic was implemented in the Contro
 ```markdown
 public void handleBtnAppointmentRegister()
 {
- isAppointmentModifyModeActive = false;
- clearAppointmentDetails();
- view.txtAppointmentRef.setText(Integer.toString(allAppointments.get(allAppointments.size() - 1).getIntAppointmentRef() + 1));
- appointmentDetailsMakeEditable();
- updateStatusBar("Type all Appointment details then Save");
+    isAppointmentModifyModeActive = false;
+    clearAppointmentDetails();
+    view.txtAppointmentRef.setText(Integer.toString(allAppointments.get(allAppointments.size() - 1).getIntAppointmentRef() + 1));
+    appointmentDetailsMakeEditable();
+    updateStatusBar("Type all Appointment details then Save");
 }
 ```
  - [View Full Source (github)](https://github.com/adamdon/CaledonianOpticians/tree/1.0/src/caledonianopticians)
 
 
 
-## TouristReviewsGlasgow - Android App with MySql login
+## TouristReviewsGlasgow
+#### Android App with MySql login
 
  - [Download .apk](https://github.com/adamdon/TouristReviewsGlasgow/releases/download/1.0.0/app-debug.apk)
  
@@ -53,6 +55,5 @@ public void addLogin(Login login, SQLiteDatabase db)
     values.put("PinNumber", login.getPinNumber());
     db.insert("Login", null, values);
 }
-
 ```
  - [View Full Source (github)](https://github.com/adamdon/TouristReviewsGlasgow/tree/master/app/src/main/java/uk/ac/cityofglasgowcollege/gccadamdon)
