@@ -3,6 +3,7 @@
 A collection of projects I wanted to document to help keep track of what I've been working on.
  - [GitHub](https://github.com/adamdon)
  - [LinkedIn](https://www.linkedin.com/in/adam-don/)
+ 
 
 ## CaledonianOpticians
 #### Customer Management Database
@@ -13,7 +14,7 @@ A collection of projects I wanted to document to help keep track of what I've be
 
 Developed by myself as part of a larger 1st year project to create an appointments management tool that could make, update, search and store bookings.
 
-The UI was make using a JavaFX gridpane, the logic was implemented in the Controller class (using the Model–view–controller design) and the database utilised ObjectOutputStream with FileOutputStream to write the full array of objects to disk for persistence.
+The UI was coded with a JavaFX gridpane, the logic was implemented in the Controller class (using the Model–view–controller design) and the database utilised ObjectOutputStream with FileOutputStream to write the full array of objects to disk for persistence.
 
 ```markdown
 public void handleBtnAppointmentRegister()
@@ -26,6 +27,7 @@ public void handleBtnAppointmentRegister()
 }
 ```
  - [View Full Source (github)](https://github.com/adamdon/CaledonianOpticians/tree/1.0/src/caledonianopticians)
+
 
 
 
@@ -57,3 +59,6 @@ public void addLogin(Login login, SQLiteDatabase db)
 }
 ```
  - [View Full Source (github)](https://github.com/adamdon/TouristReviewsGlasgow/tree/master/app/src/main/java/uk/ac/cityofglasgowcollege/gccadamdon)
+ 
+ 
+ 
