@@ -6,7 +6,7 @@ A collection of projects I wanted to document to help keep track of what I've be
  
 ---
 
-## CaledonianOpticians
+### CaledonianOpticians
 #### Customer Management Database
 
  - [Download .jar (unzip)](https://github.com/adamdon/CaledonianOpticians/releases/download/1.0/CaledonianOpticians1.0.zip)
@@ -31,7 +31,7 @@ public void handleBtnAppointmentRegister()
 
 ---
 
-## CryptoCausationTrackerCLI
+### CryptoCausationTrackerCLI
 #### Live data analysis of cryptocurrency markets 
 
  - [Download .exe](https://github.com/adamdon/CryptoCausationTrackerCLI/releases/download/1.0/CryptoCausationTrackerCLI.exe)
@@ -55,7 +55,7 @@ public static Message ReadToObject(string json)
 
 ---
 
-## TouristReviewsGlasgow
+### TouristReviewsGlasgow
 #### Android App with MySql login
 
  - [Download .apk](https://github.com/adamdon/TouristReviewsGlasgow/releases/download/1.0.0/app-debug.apk)
