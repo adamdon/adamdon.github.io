@@ -1,13 +1,11 @@
-# Adam Don - projects, bits and pieces
-
 A collection of projects I wanted to document to help keep track of what I've been working on.
- - [GitHub](https://github.com/adamdon)
- - [LinkedIn](https://www.linkedin.com/in/adam-don/)
+ - [GitHub - github.com/adamdon](https://github.com/adamdon)
+ - [LinkedIn - linkedin.com/in/adam-don](https://www.linkedin.com/in/adam-don/)
  
 ---
 
 ### CaledonianOpticians
-#### Customer Management Database
+##### Customer Management Database
 
  - [Download .jar (unzip)](https://github.com/adamdon/CaledonianOpticians/releases/download/1.0/CaledonianOpticians1.0.zip)
  
@@ -32,7 +30,7 @@ public void handleBtnAppointmentRegister()
 ---
 
 ### CryptoCausationTrackerCLI
-#### Live data analysis of cryptocurrency markets 
+##### Live data analysis of cryptocurrency markets 
 
  - [Download .exe](https://github.com/adamdon/CryptoCausationTrackerCLI/releases/download/1.0/CryptoCausationTrackerCLI.exe)
  
@@ -56,7 +54,7 @@ public static Message ReadToObject(string json)
 ---
 
 ### TouristReviewsGlasgow
-#### Android App with MySql login
+##### Android App with MySql login
 
  - [Download .apk](https://github.com/adamdon/TouristReviewsGlasgow/releases/download/1.0.0/app-debug.apk)
  
