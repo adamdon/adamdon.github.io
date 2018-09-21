@@ -4,6 +4,8 @@ A collection of projects I wanted to document to help keep track of what I've be
  - [GitHub](https://github.com/adamdon)
  - [LinkedIn](https://www.linkedin.com/in/adam-don/)
  
+---
+---
 
 ## CaledonianOpticians
 #### Customer Management Database
